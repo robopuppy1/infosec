@@ -17,4 +17,4 @@ A few minutes later Sam cannot access anything. His account was suspended due to
 
 ---
 
-{{< figure src="/media/phish1.png" alt="phishing" width="150px" >}}
+{{< figure src="/media/phish1.png" alt="phishing" width="400px" >}}

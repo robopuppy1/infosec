@@ -17,7 +17,4 @@ A few minutes later Sam cannot access anything. His account was suspended due to
 
 ---
 
-
-#![Phishing](/static/phish1.png)
-
-{{< image_resize phish1 "150x150" >}}
+{{< figure src="/media/phish1.png" alt="phishing" width="150px" >}}

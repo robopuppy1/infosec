@@ -17,5 +17,5 @@ A few minutes later Sam cannot access anything. His account was suspended due to
 
 ---
 
-### Insert graphic to show what happened to Sam ###
 
+![Phishing](/static/phish1.png)

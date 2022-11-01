@@ -1,5 +1,5 @@
 ---
-title: "Parts_of_an_email"
+title: "Parts of an email"
 date: 2022-11-01T18:51:35-04:00
 draft: false
 ---
